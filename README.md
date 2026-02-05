@@ -24,6 +24,7 @@ to identify patterns and trends using Python.
 ---
 
 ## Project Structure
+```
 student-depression-data-analysis/
 ├── notebook/
 │ └── student_depression_analysis.ipynb
@@ -31,7 +32,7 @@ student-depression-data-analysis/
 │ └── student_depression.csv
 ├── README.md
 ├── .gitignore
-
+```
 ---
 
 ## Key Analysis Performed
